@@ -1,0 +1,10 @@
+dir : fala o que tem no diretorio
+cd arquivo : entra no diretorio
+cd .. : volta 1 diretorio
+git add nomeArquivo :
+git add *
+git add . :você move o arquivo para staged(pronto para usar)
+git commit -m "msg" : você envelopa todos os arquivos que estão em staged e da um significado
+git push origin master : para enviar o arquivo para o github
+git pull origin master : para puxar o ultimo arquivo no github
+git clone https://github.com/repositorio-que-vc-copiou
